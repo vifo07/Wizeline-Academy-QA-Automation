@@ -1,1 +1,0 @@
-# Wizeline-Academy-QA-Automation
