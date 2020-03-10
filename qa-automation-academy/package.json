@@ -1,0 +1,14 @@
+{
+  "name": "qa-automation-academy",
+  "version": "1.0.0",
+  "description": "Qa Automation Frontend Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome src/todoist/tests --selector-timeuout 1500 --asertion-timeout 15000 "
+  },
+  "author": "Vicente",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.2"
+  }
+}
